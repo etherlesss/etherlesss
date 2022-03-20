@@ -6,9 +6,8 @@
 + Music on my daily basis
 + Coding other stuff for fun
 
-Languages </br>
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /> </br>
-Tools </br>
+Languages and tools </br>
+<img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
+<img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" />
 <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" /> </br>
