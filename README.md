@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-+ IT College student
-+ Dreams to work in cybersecurity
++ IT student
++ Wants to work in cybersecurity
 + Doing projects for fun
 + Music on my daily basis
-+ Coding other stuff for fun
 
 Languages and tools </br>
 <img height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
