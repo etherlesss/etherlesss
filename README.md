@@ -5,7 +5,7 @@
 + Doing projects for fun
 + Music on my daily basis
 + College projects are among my repos
-+ Spanish is main language, but I can speak english too.
++ Spanish is my main language, but I can speak english too.
 
 Languages and tools </br>
 + Langs: Python, C, Java
