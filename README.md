@@ -9,6 +9,6 @@
 
 Languages and tools </br>
 + Langs: Python, C, Java
-+ Tools: VSCode, GitHub, Netbeans
++ Tools: VSCode, GitHub, Netbeans, CLion
 
 Personal projects down here on my pinned 👇
