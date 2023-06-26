@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-+ PUCV IT student
 + I want to work in cybersecurity, or perhaps software engineering.
 + Doing projects for fun
 + Music on my daily basis
