@@ -18,8 +18,9 @@ Languages, frameworks and tools I've used:</br>
     \
     [![My Skills](https://skillicons.dev/icons?i=vscode,github,mysql,postgres,vercel,mongodb)](https://skillicons.dev)
 
-Currently learning:
+Currently learning:\
+</br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
     
-
+</br>
 My favorite projects are down here on my pinned 👇
