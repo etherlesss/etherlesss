@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 + I want to work in web development, or perhaps software engineering.
-+ Doing projects for fun
++ Doing projects for fun from time to time
 + Music on my daily basis
 + College projects are among my repos
-+ Spanish is my main language, but I can speak english too.
++ Spanish is my main language, but I also have C2 english level.
 
 Languages, frameworks and tools I've used:</br>
 + Langs:\
@@ -16,6 +16,10 @@ Languages, frameworks and tools I've used:</br>
     
 + Tools:\
     \
-    [![My Skills](https://skillicons.dev/icons?i=vscode,github,mysql,postgres)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=vscode,github,mysql,postgres,vercel,mongodb)](https://skillicons.dev)
+
+Currently learning:
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
+    
 
 My favorite projects are down here on my pinned 👇
