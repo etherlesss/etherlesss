@@ -9,18 +9,13 @@
 Languages, frameworks and tools I've used:</br>
 + Langs:\
     \
-    [![My Skills](https://skillicons.dev/icons?i=py,c,java,js,ts,css,html,md)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=py,c,java,js,ts,css,html,md,androidstudio,kotlin)](https://skillicons.dev)
 + Frameworks:\
     \
     [![My Skills](https://skillicons.dev/icons?i=bootstrap,express,vue)](https://skillicons.dev)
     
 + Tools:\
     \
-    [![My Skills](https://skillicons.dev/icons?i=vscode,github,mysql,postgres,vercel,mongodb)](https://skillicons.dev)
-
-Currently learning:\
-</br>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
-    
+    [![My Skills](https://skillicons.dev/icons?i=vscode,github,mysql,postgres,vercel,mongodb)](https://skillicons.dev) 
 </br>
 My favorite projects are down here on my pinned 👇
