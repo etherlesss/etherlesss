@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-+ I want to work in web development, or perhaps software engineering.
 + Doing projects for fun from time to time
 + Music on my daily basis
 + College projects are among my repos
-+ Spanish is my main language, but I also have C2 english level.
++ Spanish is my main language, but I also have C1 english level.
 
 Languages, frameworks and tools I've used:</br>
 + Langs:\
