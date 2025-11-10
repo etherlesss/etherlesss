@@ -5,6 +5,10 @@
 + College projects are among my repos
 + Spanish is my main language, but I also have C1 english level.
 
+Learning:\
+\
+[![Learning](https://skillicons.dev/icons?i=go,tailwind)](https://skillicons.dev)
+
 Languages, frameworks and tools I've used:</br>
 + Langs:\
     \
