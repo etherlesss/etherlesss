@@ -7,7 +7,7 @@
 
 Learning:\
 \
-[![Learning](https://skillicons.dev/icons?i=go,tailwind,docker)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=go,tailwind,docker,nuxt)](https://skillicons.dev)
 
 Languages, frameworks and tools I've used:</br>
 + Langs:\
