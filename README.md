@@ -5,20 +5,16 @@
 + College projects are among my repos
 + Spanish is my main language, but I also have C1 english level.
 
-Learning:\
-\
-[![Learning](https://skillicons.dev/icons?i=go,tailwind,docker,nuxt)](https://skillicons.dev)
-
 Languages, frameworks and tools I've used:</br>
 + Langs:\
     \
-    [![My Skills](https://skillicons.dev/icons?i=py,c,java,js,ts,css,html,md,kotlin)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=py,c,java,js,ts,css,html,md,kotlin,go)](https://skillicons.dev)
 + Frameworks:\
     \
-    [![My Skills](https://skillicons.dev/icons?i=bootstrap,express,vue)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=bootstrap,express,vue,nuxt,tailwind)](https://skillicons.dev)
     
 + Tools:\
     \
-    [![My Skills](https://skillicons.dev/icons?i=vscode,github,mysql,postgres,vercel,mongodb,androidstudio)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=vscode,github,mysql,postgres,vercel,mongodb,androidstudio,docker)](https://skillicons.dev) 
 </br>
 My favorite projects are down here on my pinned 👇
