@@ -6,16 +6,15 @@
 + Spanish is my main language, but I also have C1 english level.
 
 Languages, frameworks and tools I've used:</br>
-+ Learning:\
-    \
-    [![My Skills](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
++ Learning:
+    
 
 + Langs:\
     \
     [![My Skills](https://skillicons.dev/icons?i=py,c,java,js,ts,css,html,md,kotlin,go)](https://skillicons.dev)
 + Frameworks:\
     \
-    [![My Skills](https://skillicons.dev/icons?i=bootstrap,express,vue,nuxt,tailwind)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=bootstrap,express,vue,nuxt,tailwind,astro)](https://skillicons.dev)
     
 + Tools:\
     \
